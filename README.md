@@ -29,7 +29,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manogna7&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=manogna7 style=flat-square/></p>
+![](https://komarev.com/ghpvc/?username=manogna7&style=flat-square)
 
 
 <!---
