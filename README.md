@@ -1,7 +1,24 @@
+<!--
 - 👋 Hi, I’m @manogna7
-<!-- 👀 I’m interested in ...
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ... -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Manogna Ch&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=manogna7&theme=react-dark&hide_border=true&area=true" />
+</div> 
+ 
+<!--  ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=manogna7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="manogna github stats" /> 
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manogna7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!-- ./STATS  -->
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=manogna7&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Manogna Ch" /></div>
+
 <p align="left">
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
 </p>
@@ -13,7 +30,8 @@
 </p>
 <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
@@ -23,7 +41,6 @@
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manogna7&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
-
 
 ## 🏆 GitHub Trophies
 
