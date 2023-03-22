@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://little.kylerconway.com/images/golang-good-ideas.png" width="300">
-   <br><br>
+   <br>
 </p>
 
 <p align="center">
