@@ -1,5 +1,5 @@
 <!--
-- 👋 Hi, I’m @manogna7
+- 👋Hi, I’m @manogna7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ... -->
