@@ -2,7 +2,7 @@
 - 👋Hi, I’m @manogna7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me ...-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Manogna+Ch&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
