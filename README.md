@@ -21,7 +21,7 @@
 </div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=manogna7&theme=black-ice&hide_border=true&mode=weekly&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Manogna Ch" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=manogna7&theme=black-ice&hide_border=true&mode=daily&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Manogna Ch" /></div>
 
 <p align="center">
   <img src="https://little.kylerconway.com/images/golang-good-ideas.png" width="300">
