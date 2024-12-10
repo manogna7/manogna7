@@ -3,7 +3,7 @@
 <div align="center">
   <h2>🚀 Developer | 🌐 AI Enthusiast | 🔍 Lifelong Learner</h2>
   <p>
-    Passionate about building scalable systems and creating real-world impact through technology.<br>
+    Focused on building scalable, efficient applications and solving real-world problems with cutting-edge technologies.<br>
     Open to full-time opportunities starting April 2025.
   </p>
   <p>
@@ -40,48 +40,28 @@
 - **Notification System for FactSet’s IRN**  
   Designed and implemented a notification system, improving responsiveness to critical updates by 20%.
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manogna7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manogna7&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="38%" />
-</div>
 
 ---
 
-### 🔥 Streak Stats
+### 📊 GitHub Activity
 <div align="center">
   <a href="https://github.com/manogna7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manogna7&theme=black-ice&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manogna7&theme=github-dark&hide_border=true&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff" width="100%" alt="GitHub Activity Graph" />
   </a>
 </div>
 
 ---
 
-### 🏆 Achievements
-- **Top 5 Finalist:** 2024 WE Local Collegiate Competition (Society of Women Engineers).  
-- **"Above and Beyond" Award:** Recognized for outstanding performance at Feba Technologies.  
-- **Microsoft Technology Associate:** Certified in Cloud Computing.  
-
----
-
-### 🎓 Certifications
-- **Reinforcement Learning:** IIT Madras (NPTEL).  
-- **Deep Learning:** IIT Kharagpur (NPTEL).  
-
----
-
-### 🌍 Leadership & Community
-- **Chairperson:** IEEE Women in Engineering (AG, IEEE–VBIT SB).  
-- **Committee Chair & Mentor:** AI Club & AIGSA at OSU.  
-- **Technical Lead:** IEEE Women in Engineering International Leadership Summit.  
-
----
-
-### 🌐 Portfolio
+### 📈 GitHub Stats
 <div align="center">
-  <p>Explore more of my work at <a href="https://manogna7.github.io" target="_blank">manogna7.github.io</a></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=manogna7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manogna7&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="38%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/manogna7">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manogna7&theme=black-ice&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="90%" />
+  </a>
 </div>
 
 ---
@@ -93,5 +73,7 @@
     📫 <a href="mailto:challojm@oregonstate.edu">challojm@oregonstate.edu</a> | 🌐 <a href="https://linkedin.com/in/manognach" target="_blank">LinkedIn</a>
   </p>
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manogna7&style=for-the-badge" alt="Visitor Tracker" />
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:005c5c,100:00bfbf&height=100&section=footer" />
