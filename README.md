@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:005c5c&height=200&section=header&text=Hi!+I'm+Manogna&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
-  <h2>🚀 Developer | 🌐 AI Enthusiast | 🔍 Lifelong Learner</h2>
   <p>
     Focused on building scalable, efficient applications and solving real-world problems with cutting-edge technologies.<br>
     Open to full-time opportunities starting April 2025.
